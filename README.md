@@ -69,6 +69,12 @@ Gerar a chave da aplicação:
 php artisan key:generate
 ```
 
+Migrar banco de dados:
+
+```sh
+php artisan migrate
+```
+
 Comandos disponíveis:
 
 ```sh
